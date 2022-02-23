@@ -2,6 +2,7 @@ import React from 'react';
 
 const WhatGPT3 = () => (
   <div>
+    WhatGPT3
   </div>
 );
 

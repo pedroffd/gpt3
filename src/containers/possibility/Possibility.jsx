@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Possibility = () => {
-  return <div></div>;
+  return <div>Possibility</div>;
 };
 
 export default Possibility;
